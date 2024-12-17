@@ -1,6 +1,5 @@
-Usage: ./cpuminer [OPTIONS]
-Options:
-  -a, --algo=ALGO       specify the algorithm to use
+## Usage: ./cpuminer [OPTIONS]
+# -a, --algo=ALGO       specify the algorithm to use
                           allium         Garlicoin double lyra2
                           anime          Animecoin[ANI]
                           axiom          Shabal-256 MemoHash
@@ -92,6 +91,7 @@ Options:
                           yespowerTIDE   TDC (Tidecoin)
                           yespowerURX    URX (UraniumX)
                           zr5            ZR5
+# Command
   -o, --url=URL           URL of mining server
   -O, --userpass=U:P      username:password pair for mining server
   -u, --user=USERNAME     username for mining server
